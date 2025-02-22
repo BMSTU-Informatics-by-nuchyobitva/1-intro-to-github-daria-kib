@@ -1,11 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/I8-8IFxo)
 # *Отчёт по выполнению задания к Семинару 1*
 
-Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}
 
 
 В данном семинаре вам предстоит выполнить следующие задания:
-- [ ] Просмотреть GitHub и самостоятельно ознакомиться с интерфейсом, либо посмотреть любое вводное видео,  [например это](https://vkvideo.ru/video288422991_456239059)
+- [ !] Просмотреть GitHub и самостоятельно ознакомиться с интерфейсом, либо посмотреть любое вводное видео,  [например это](https://vkvideo.ru/video288422991_456239059)
 - [ ] Понимать терминологию Git (репозиторий, ветка, форк и т.д.), разбираться в отличиях Github и Github Classroom
 - [ ] Изучить (для понимания) язык [Markdown](https://github.com/sandino/Markdown-Cheatsheet). Понимать, что за формат .md . Отличать пикми от README
 - [ ] Создать репозиторий (с любым названием) в своём личном GitHub и выложить туда любую свою программу из 1 семестра
